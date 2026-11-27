@@ -1,7 +1,7 @@
 
 # Tugas Minggu 11: CI untuk Repo Compose
 
-![CI](https://github.com/USERNAME/ci-compose-minggu11/actions/workflows/compose-check.yml/badge.svg)
+[![Compose Check](https://github.com/Fahry28/ci-compose-minggu11/actions/workflows/compose-check.yml/badge.svg)](https://github.com/Fahry28/ci-compose-minggu11/actions/workflows/compose-check.yml)
 
 **Nama:** [Fahry Dhika Ardani]
 **NIM:** [202557201078]
